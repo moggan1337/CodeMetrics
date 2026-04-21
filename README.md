@@ -19,6 +19,24 @@
 
 ---
 
+## 🎬 Demo
+![CodeMetrics Demo](demo.gif)
+
+*Comprehensive code analysis with visual complexity maps*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Complexity Map | ![map](screenshots/complexity-map.png) |
+| Dependency Graph | ![deps](screenshots/deps-graph.png) |
+| Quality Dashboard | ![dashboard](screenshots/quality-dash.png) |
+
+## Visual Description
+Complexity maps color-code functions by cyclomatic complexity with size representing line count. Dependency graphs show module relationships as force-directed layouts. Quality dashboards display trend lines for technical debt over time.
+
+---
+
+
 ## Table of Contents
 
 - [Overview](#overview)
